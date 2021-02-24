@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1032594186299-8g6lhiar87f7di98q681h6v0s8d5gqac.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1032594186299</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsjUsEAXRLAyvMOo25i4qWfRcIinYr-Xo</string>
+    <string name="google_app_id" translatable="false">1:1032594186299:android:4dc489a5e8d7ab892d7c1e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsjUsEAXRLAyvMOo25i4qWfRcIinYr-Xo</string>
+    <string name="google_storage_bucket" translatable="false">traffic-app-a698d.appspot.com</string>
+    <string name="project_id" translatable="false">traffic-app-a698d</string>
+</resources>

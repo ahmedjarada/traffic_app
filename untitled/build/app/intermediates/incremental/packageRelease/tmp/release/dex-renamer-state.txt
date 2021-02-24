@@ -1,0 +1,4 @@
+#Sat Jan 09 17:35:39 EET 2021
+base.0=C\:\\Users\\ahmed\\mobile_apps\\untitled\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

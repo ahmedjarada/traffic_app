@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032594186299",
+    "project_id": "traffic-app-a698d",
+    "storage_bucket": "traffic-app-a698d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032594186299:android:4dc489a5e8d7ab892d7c1e",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032594186299-8g6lhiar87f7di98q681h6v0s8d5gqac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjUsEAXRLAyvMOo25i4qWfRcIinYr-Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032594186299-8g6lhiar87f7di98q681h6v0s8d5gqac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

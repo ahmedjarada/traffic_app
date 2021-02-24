@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="COMMAND_LINE_OPTIONS" value="--stacktrace --debug --scan" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dabc69e-980c-4bcc-87d0-a7272da9eee1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1lGIkexi6IoW8M3iCrT3j4bz2tl" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\mobile_apps\untitled\android\app" />
+      <recent name="C:\Users\ahmed\mobile_apps\untitled\android" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\IdeaProjects\untitled\lib\Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Counter increments smoke test" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Counter increments smoke test" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Testing request Http login" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="Testing request Http login" />
+      <option name="testFile" value="$PROJECT_DIR$/test/login_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in login_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/login_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.tests in login_test.dart" />
+        <item itemvalue="Flutter Test.Testing request Http login" />
+        <item itemvalue="Flutter Test.Counter increments smoke test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dabc69e-980c-4bcc-87d0-a7272da9eee1" name="Default Changelist" comment="" />
+      <created>1607217155537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607217155537</updated>
+      <workItem from="1607217156686" duration="228000" />
+      <workItem from="1607218267451" duration="712000" />
+      <workItem from="1607296912877" duration="23894000" />
+      <workItem from="1607641664090" duration="624000" />
+      <workItem from="1607708624219" duration="4291000" />
+      <workItem from="1607796358803" duration="8219000" />
+      <workItem from="1607825349906" duration="852000" />
+      <workItem from="1608489440409" duration="1081000" />
+      <workItem from="1608646405811" duration="26489000" />
+      <workItem from="1608738648837" duration="2640000" />
+      <workItem from="1609280642294" duration="15445000" />
+      <workItem from="1609616698490" duration="73000" />
+      <workItem from="1609616840165" duration="1298000" />
+      <workItem from="1609619081303" duration="1405000" />
+      <workItem from="1609683553004" duration="2255000" />
+      <workItem from="1610015431971" duration="12000" />
+      <workItem from="1610203761019" duration="52000" />
+      <workItem from="1610203827828" duration="236000" />
+      <workItem from="1611073022050" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
